@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Flash" type="MicroPythonConfigurationType" factoryName="MicroPython" path="$PROJECT_DIR$" runReplOnSuccess="yes">
+    <module name="dht22_Server" />
+    <method v="2">
+      <option name="MicroPython.StopREPL.Before.Run" enabled="true" />
+    </method>
+  </configuration>
+</component>
